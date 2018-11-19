@@ -6,5 +6,5 @@ function some_function(some_value){
 
 function process_form(form){
 	var student_id = form.student_id.value;
-	alert("Logging as: " + student_id);
+	alert("Logging in as: " + student_id);
 }
