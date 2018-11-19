@@ -1,0 +1,9 @@
+body {
+    margin:0px;
+}
+.center {
+    display: inline-block;
+    width: 50%;
+    height: 50%;
+    margin: auto auto auto auto;
+}
